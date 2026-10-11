@@ -129,9 +129,9 @@ spacex
 
 | Community | Team |
 |-----------|------|
-| Discord: https://discord.gg/e4hpdeMvtV | **MrCrazyBoyYT** |
-| Instagram: https://www.instagram.com/op_entity_666 | **N O N** |
-| GitHub: https://github.com/MrCrazyBoyYT | **N O N** |
+| Discord: https://discord.gg/e4hpdeMvtV | **Kryo ?** |
+| Instagram: https://www.instagram.com/__.4dhii.404/ | **N O N** |
+| GitHub: https://github.com/kryoxy | **N O N** |
 | npm: https://www.npmjs.com/package/yukii | **N O N** |
 
 ---
@@ -140,4 +140,4 @@ spacex
 
 GPL-3.0-or-later
 
-Copyright © 2026 MrCrazyBoyYT
+Copyright © 2026 Kryo ?
